@@ -7,14 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hasan-ibodullayev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://t.me/Ibodullayev_77777" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://x.com/HasanIbodullay2" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://portfolio.ibodullayevhasan.uz/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
@@ -25,11 +19,11 @@
 
 ### 🚀 Men haqimda
 
-- 🔭 Hozirda **NestJS** va **TypeScript** bilan production-darajadagi backend loyihalar ustida ishlayman
-- 🌱 Enterprise arxitektura patternlari — Repository Pattern, DTO/Entity separation, JWT + Refresh Token oqimlarini chuqur o'rganmoqdaman
+- 🔭 Hozirda **NestJS**, **TypeScript** va **React** bilan production-darajadagi backend va frontend loyihalar ustida ishlayman
+- 🌱 Enterprise arxitektura patternlari — Repository Pattern, DTO/Entity separation, JWT + Refresh Token kabilar bilan mustahkam va xavfsiz backend quraman
 - 💼 Freelance loyihalarga ham ochiqman (Upwork)
-- 📍 Uzbekistan asosli, remote ishlashga tayyorman
-- ⚡ Qiziqish: real productiondagi kodlar qanday tuzilganini o'rganish va o'z loyihalarimga tatbiq etish
+- 📍 Remote, fulltime va part-time ishlashga tayyorman
+- ⚡ Qiziqish:Real-Time app, e-commerce app
 
 ---
 
